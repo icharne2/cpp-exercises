@@ -1,2 +1,2 @@
 # cpp-exercises
-C++ exercises
+C++ exercises (studies).
